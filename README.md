@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning *Go and Rust**
 - ❤️ Love embedded systems
 - 🌍 I speak English
+- 🙈 I'm beginer in coding
 
 ---
 
