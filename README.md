@@ -4,8 +4,8 @@
 </div>
 
 
-### About me
-- 🌱 I’m currently learning *Go and Rust**
+### About me🌱
+
 - ❤️ Love embedded systems
 - 🌍 I speak English
 - 🙈 I'm beginer in coding
