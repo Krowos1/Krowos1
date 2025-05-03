@@ -20,11 +20,9 @@
 ### My stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Krowos1&theme=2077)
-
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=github_dark" alt=""/>
-</div>
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Krowos1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Krowos1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Krowos1&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Krowos1&theme=2077&utcOffset=8)
 
 ---
