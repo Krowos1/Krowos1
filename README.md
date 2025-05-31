@@ -7,8 +7,8 @@
 ### About me🌱
 
 - ❤️ Love embedded systems and desktop applications
-- 🌍 I speak English
-- 🙈 I'm beginer in coding
+- 🌍 I speak English [B1]
+- 🙈 I'm beginer in the coding
 
 ---
 
