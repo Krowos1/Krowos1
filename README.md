@@ -8,7 +8,7 @@
 
 - ❤️ Love embedded systems and desktop applications
 - 🌍 I speak English [B1]
-- 🙈 I'm beginer in the coding
+
 
 ---
 
